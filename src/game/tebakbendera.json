@@ -1,0 +1,352 @@
+[
+  {
+    "flag": "AF",
+    "img": "🇦🇫",
+    "name": "Afganistan"
+  },
+  {
+    "flag": "ZA",
+    "img": "🇿🇦",
+    "name": "Afrika Selatan"
+  },
+  {
+    "flag": "CF",
+    "img": "🇨🇫",
+    "name": "Afrika Tengah"
+  },
+  {
+    "flag": "AX",
+    "img": "🇦🇽",
+    "name": "Åland"
+  },
+  {
+    "flag": "AL",
+    "img": "🇦🇱",
+    "name": "Albania"
+  },
+  {
+    "flag": "DZ",
+    "img": "🇩🇿",
+    "name": "Aljazair"
+  },
+  {
+    "flag": "US",
+    "img": "🇺🇲",
+    "name": "Amerika Serikat"
+  },
+  {
+    "flag": "AD",
+    "img": "🇦🇩",
+    "name": "Andorra"
+  },
+  {
+    "flag": "AO",
+    "img": "🇦🇴",
+    "name": "Angola"
+  },
+  {
+    "flag": "AI",
+    "img": "🇦🇮",
+    "name": "Anguilla"
+  },
+  {
+    "flag": "AQ",
+    "img": "🇦🇶",
+    "name": "Antarktika"
+  },
+  {
+    "flag": "AG",
+    "img": "🇦🇬",
+    "name": "Antigua dan Barbuda"
+  },
+  {
+    "flag": "AN",
+    "img": "🇳🇱",
+    "name": "Belanda"
+  },
+  {
+    "flag": "SA",
+    "img": "🇸🇦",
+    "name": "Arab Saudi"
+  },
+  {
+    "flag": "AR",
+    "img": "🇦🇷",
+    "name": "Argentina"
+  },
+  {
+    "flag": "AM",
+    "img": "🇦🇲",
+    "name": "Armenia"
+  },
+  {
+    "flag": "AW",
+    "img": "🇦🇼",
+    "name": "Aruba"
+  },
+  {
+    "flag": "AU",
+    "img": "🇦🇺",
+    "name": "Australia"
+  },
+  {
+    "flag": "AT",
+    "img": "🇦🇹",
+    "name": "Austria"
+  },
+  {
+    "flag": "AZ",
+    "img": "🇦🇿",
+    "name": "Azerbaijan"
+  },
+  {
+    "flag": "BS",
+    "img": "🇧🇸",
+    "name": "Bahama"
+  },
+  {
+    "flag": "BH",
+    "img": "🇧🇭",
+    "name": "Bahrain"
+  },
+  {
+    "flag": "BD",
+    "img": "🇧🇩",
+    "name": "Bangladesh"
+  },
+  {
+    "flag": "BB",
+    "img": "🇧🇧",
+    "name": "Barbados"
+  },
+  {
+    "flag": "NL",
+    "img": "🇳🇱",
+    "name": "Belanda"
+  },
+  {
+    "flag": "BY",
+    "img": "🇧🇾",
+    "name": "Belarus"
+  },
+  {
+    "flag": "BE",
+    "img": "🇧🇪",
+    "name": "Belgia"
+  },
+  {
+    "flag": "BZ",
+    "img": "🇧🇿",
+    "name": "Belize"
+  },
+  {
+    "flag": "BJ",
+    "img": "🇧🇯",
+    "name": "Benin"
+  },
+  {
+    "flag": "BM",
+    "img": "🇧🇲",
+    "name": "Bermuda"
+  },
+  {
+    "flag": "BT",
+    "img": "🇧🇹",
+    "name": "Bhutan"
+  },
+  {
+    "flag": "BO",
+    "img": "🇧🇴",
+    "name": "Bolivia"
+  },
+  {
+    "flag": "BA",
+    "img": "🇧🇦 ",
+    "name": "Bosnia"
+  },
+  {
+    "flag": "BW",
+    "img": "🇧🇼",
+    "name": "Botswana"
+  },
+  {
+    "flag": "BV",
+    "img": "🇧🇻",
+    "name": "Bouvet"
+  },
+  {
+    "flag": "BR",
+    "img": "🇧🇷",
+    "name": "Brasil"
+  },
+  {
+    "flag": "GB",
+    "img": "🇬🇧",
+    "name": "Britania Raya"
+  },
+  {
+    "flag": "BN",
+    "img": "🇧🇳",
+    "name": "Brunei"
+  },
+  {
+    "flag": "BG",
+    "img": "🇧🇬",
+    "name": "Bulgaria"
+  },
+  {
+    "flag": "BF",
+    "img": "🇧🇫",
+    "name": "Burkina Faso"
+  },
+  {
+    "flag": "BI",
+    "img": "🇧🇮",
+    "name": "Burundi"
+  },
+  {
+    "flag": "KY",
+    "img": "🇰🇾",
+    "name": "Cayman"
+  },
+  {
+    "flag": "TD",
+    "img": "🇹🇩",
+    "name": "Chad"
+  },
+  {
+    "flag": "CZ",
+    "img": "🇨🇿",
+    "name": "Ceko"
+  },
+  {
+    "flag": "CL",
+    "img": "🇨🇱",
+    "name": "Chili"
+  },
+  {
+    "flag": "CC",
+    "img": "🇨🇨",
+    "name": "Cocos (Keeling)"
+  },
+  {
+    "flag": "CK",
+    "img": "🇨🇰",
+    "name": "Cook"
+  },
+  {
+    "flag": "DK",
+    "img": "🇩🇰",
+    "name": "Denmark"
+  },
+  {
+    "flag": "DJ",
+    "img": "🇩🇯",
+    "name": "Djibouti"
+  },
+  {
+    "flag": "DM",
+    "img": "🇩🇲",
+    "name": "Dominika"
+  },
+  {
+    "flag": "EC",
+    "img": "🇪🇨",
+    "name": "Ekuador"
+  },
+  {
+    "flag": "SV",
+    "img": "🇸🇻",
+    "name": "El Salvador"
+  },
+  {
+    "flag": "ER",
+    "img": "🇪🇷",
+    "name": "Eritrea"
+  },
+  {
+    "flag": "EE",
+    "img": "🇪🇪",
+    "name": "Estonia"
+  },
+  {
+    "flag": "ET",
+    "img": "🇪🇹",
+    "name": "Ethiopia"
+  },
+  {
+    "flag": "FK",
+    "img": "🇫🇰",
+    "name": "Falkland"
+  },
+  {
+    "flag": "FO",
+    "img": "🇫🇴",
+    "name": "Faroe"
+  },
+  {
+    "flag": "ID",
+    "img": "🇮🇩",
+    "name": "Indonesia"
+  },
+  {
+    "flag": "SG",
+    "img": "🇸🇬",
+    "name": "Singapore"
+  },
+  {
+    "flag": "MY",
+    "img": "🇲🇾",
+    "name": "Malaysia"
+  },
+  {
+    "flag": "HK",
+    "img": "🇭🇰",
+    "name": "Hongkong"
+  },
+  {
+    "flag": "TW",
+    "img": "🇹🇼",
+    "name": "Taiwan"
+  },
+  {
+    "flag": "TH",
+    "img": "🇹🇭",
+    "name": "Thailand"
+  },
+  {
+    "flag": "JP",
+    "img": "🇯🇵",
+    "name": "Jepang"
+  },
+  {
+    "flag": "KR",
+    "img": "🇰🇷",
+    "name": "Korea Selatan"
+  },
+  {
+    "flag": "KU",
+    "img": "🇰🇵",
+    "name": "Korea Utara"
+  },
+  {
+    "flag": "TR",
+    "img": "🇹🇱",
+    "name": "Timor Leste"
+  },
+  {
+    "flag": "PNW",
+    "img": "🇵🇬",
+    "name": "Papua Nugini"
+  },
+  {
+    "flag": "PS",
+    "img": "🇵🇸",
+    "name": "Palestina"
+  },
+  {
+    "flag": "RS",
+    "img": "🇷🇺",
+    "name": "Rusia"
+  }
+]
