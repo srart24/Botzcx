@@ -17,7 +17,7 @@ $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ git clone https://github.com/srart24/Botzcx
-$ cd games-wabot
+$ cd Botzcx
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
