@@ -29,7 +29,7 @@ global.APIKeys = {
 }
 
 ///////
-
+global.wm = '@srart24'
 
 // Sticker WM
 
