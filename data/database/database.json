@@ -1,0 +1,62 @@
+{
+  "users": {
+    "17154062217@s.whatsapp.net": {
+      "exp": 25,
+      "limit": 100,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "B0T ©️",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true,
+      "lastngeped": 0,
+      "lilin": 0,
+      "korek": 0,
+      "money": 10000,
+      "buntal": 0,
+      "teri": 0,
+      "udang": 0,
+      "gurita": 0,
+      "cumi": 0,
+      "hiu": 0,
+      "kepiting": 0,
+      "orca": 0,
+      "paus": 0,
+      "dory": 0
+    }
+  },
+  "chats": {
+    "17154062217@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "expired": 0
+    }
+  },
+  "stats": {},
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "17154062217@s.whatsapp.net": {
+      "self": false,
+      "games": false,
+      "autoread": false,
+      "restrict": false
+    }
+  }
+}
