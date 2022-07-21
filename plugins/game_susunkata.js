@@ -15,7 +15,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let res = await fetch(API('sr', '/game/susunkata', {}, 'apikey'))
     let json = await res.json()
     if(json.result) return m.reply(json.result)
-    let caption = ` [ ASAH OTAK ]
+    let caption = ` [ SUSUN KATA ]
     
 ${json.soal}
 type: ${json.tipe}
