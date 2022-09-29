@@ -3,6 +3,7 @@
 import db from '../lib/database.js'
 let timeout = 10000
 let handler = async (m, { conn, usedPrefix, command, groupMetadata, participants}) => {
+if (!opts['games']) return m.reply('*[ FITUR INI DI NON AKTIFKAN ]*')
 conn.memancing = conn.memancing ? conn.memancing : {}
 let id = m.sender
 if (id in conn.memancing) {
