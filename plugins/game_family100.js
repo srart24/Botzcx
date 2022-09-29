@@ -1,4 +1,4 @@
-import { promises } from 'fs'
+import fetch from 'node-fetch'
 const winScore = 500
 async function handler(m) {
  if (!opts['games']) return m.reply('*[ FITUR INI DI NON AKTIFKAN ]*')
