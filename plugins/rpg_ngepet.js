@@ -2,6 +2,7 @@
 
 import db from '../lib/database.js'
 let handler = async (m, { conn, usedPrefix, groupMetadata, participants }) => { 
+if (!opts['games']) return m.reply('*[ FITUR INI DI NON AKTIFKAN ]*')
 	 let user = db.data.users[m.sender]
     let __timers = (new Date - user.lastngeped)
     let _timers = (6000000 - __timers)
