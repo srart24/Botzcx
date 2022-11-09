@@ -7,7 +7,7 @@ import { fileURLToPath } from 'url'
 ///////
 
 global.owner = [
-  ['17154062217'], 
+  ['0'], 
   ['6287826482017', '@srart24', true] // nomor akan di kirim sebagai owner
   ];
   
